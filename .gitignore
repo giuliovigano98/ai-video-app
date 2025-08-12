@@ -1,0 +1,21 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# File pesanti
+datasets/
+*.mp4
+*.avi
+*.mov
+*.mpeg4
+*.mkv
+
+# Log / temporanei
+*.log
+.DS_Store
+
+# Streamlit cache
+.streamlit/
